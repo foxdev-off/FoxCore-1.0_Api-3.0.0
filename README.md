@@ -1,4 +1,6 @@
 FoxCore public.
+php версия: ["7.0"]
+php version: ["7.0"]
 
 [RU]
 Изменения:
