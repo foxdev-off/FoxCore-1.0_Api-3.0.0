@@ -1,12 +1,12 @@
 FoxCore public.
 
-RU:
+[RU]
 Изменения:
-- Реализована левая рука
+- Реализована левая рука.
 
-EN:
+[EN]
 Changes:
-- Left hand implemented
+- Left hand implemented.
 
 Версия клиента: ["1.1.0" - "1.1.7"]
 Customer version: ["1.1.0" - "1.1.7"]
